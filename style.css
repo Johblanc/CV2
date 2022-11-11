@@ -76,7 +76,37 @@ q {
     border: solid 3px var(--color-second);
 }
 
+.informations>article {
+    border: solid ;
+    border-width: 0 18px 7px;
+    border-image: url(Images/barre.svg) 0 18 7;
+}
 
+h3 {
+    font-size: 1.4em;
+    font-style: italic;
+}
+
+h4 {padding: 15px;
+}
+
+.informations ul {
+    padding: 5px 10px 5px 35px;
+    list-style: url(Images/puce.svg);
+}
+
+.informations p::first-letter,
+.informations li::first-letter {
+    padding-left: 10px;
+}
+
+.informations p{
+    padding: 5px 10px 5px 35px;
+}
+
+.informations li {
+    padding-bottom: 8px;
+}
 
 @media ( min-width : 550px ) {
     .sections {
