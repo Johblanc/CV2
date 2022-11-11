@@ -5,7 +5,7 @@
 
 :root{
     --color-prime : #dad4a3;
-    --color-secon : #5a4100;
+    --color-second : #5a4100;
     --font-fam : 'Catamaran', sans-serif;
 }
 
@@ -21,22 +21,70 @@
 
 body {
     background-color: var(--color-prime);
-    color: var(--color-secon);
+    color: var(--color-second);
     font-family: var(--font-fam);
 }
 
 header {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .sections {
     width: 100%;
     display: flex;
     flex-direction: column ;
+    justify-self: start;
 }
+
+.section {
+    display: flex;
+    flex-direction: column;
+}
+article {
+    margin: 5px 25px;
+    padding: 10px 20px;
+}
+.section__photo{
+    border-radius: 50%;
+    align-self: center;
+}
+
+.section--centre>p{
+    width: 100%;
+    text-align: center;
+}
+
+.section__citation {
+    background-color: var(--color-second);
+    color: var(--color-prime);
+    font-size: 0.8em;
+    text-align: center;
+}
+
+q {
+    font-style: italic;
+}
+
+.section__citation>p{
+    margin-top: 10px;
+    width: 100%;
+    text-align: right;
+}
+
+.section__anecdote {
+    border: solid 3px var(--color-second);
+}
+
+
 
 @media ( min-width : 550px ) {
     .sections {
         flex-direction: row ;
     }
+    .identite {
+        max-width: 300px;
+    }
 }
+
+
