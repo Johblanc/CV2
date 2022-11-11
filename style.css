@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+
+/* VARIABLES */
+
+:root{
+    --color-prime : #dad4a3;
+    --color-secon : #5a4100;
+    --font-fam : 'Catamaran', sans-serif;
+}
+
+/* RESET */
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+/* CSS */
+
+body {
+    background-color: var(--color-prime);
+    color: var(--color-secon);
+    font-family: var(--font-fam);
+}
+
+header {
+    text-align: center;
+}
+
+.sections {
+    width: 100%;
+    display: flex;
+    flex-direction: column ;
+}
+
+@media ( min-width : 550px ) {
+    .sections {
+        flex-direction: row ;
+    }
+}
