@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15"
+   height="10.000003"
+   viewBox="0 0 3.96875 2.645834"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="CV.svg"
+   inkscape:export-filename="..\CV\Images\barre.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.829812"
+     inkscape:cx="302.49009"
+     inkscape:cy="201.3868"
+     inkscape:window-width="968"
+     inkscape:window-height="991"
+     inkscape:window-x="942"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       type="xygrid"
+       id="grid19512" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-119.06249,7.9375001)">
+    <path
+       id="path25978"
+       style="fill:#5a4100;fill-opacity:1;stroke:none;stroke-width:0.902758;stroke-dasharray:none"
+       d="m 120.38541,-7.9374999 2.64583,1.322917 -2.64583,1.322917 -1.32292,-1.322917 z m 0,0.264584 c -0.20989,0.419779 -0.37338,0.746765 -0.52917,1.058333 l 0.52917,1.058333 1.85208,-1.058333 z m 0,0 c 0,0 0.52078,1.042054 1.82108,1.058333 -1.3003,0.01628 -1.82108,1.058333 -1.82108,1.058333 0,0 0.26065,-1.042054 -0.51056,-1.058333 0.77121,-0.01628 0.51056,-1.058333 0.51056,-1.058333 z"
+       inkscape:export-filename="..\CV\Images\puce.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
