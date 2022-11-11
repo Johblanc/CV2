@@ -73,6 +73,7 @@ q {
 }
 
 .section__anecdote {
+    text-align: center;
     border: solid 3px var(--color-second);
 }
 
